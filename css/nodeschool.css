@@ -50,14 +50,14 @@ a:hover {
 
 .month-menuitem.active {
   background: #fff;
-  color: #5482ab;
+  color: #4d5a78;
   font-weight: bold;
 }
 
 .month-menuitem:hover {
   transform: scale(1.1618);
   background:#fff;
-  color:#5482ab;
+  color:#4d5a78;
   font-weight:bold;
 }
 
