@@ -47,8 +47,8 @@ a:hover {
 }
 
 .month-menuitem.active {
-  background: #EC2216;
-  color: #fff;
+  background: #fff;
+  color: #5482ab;
   font-weight: bold;
 }
 
