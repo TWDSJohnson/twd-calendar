@@ -61,5 +61,8 @@ a:hover {
 }
 
 .today .day {
-  background: purple;
+  background: #fff;
+  color:#5482ab;
+  border-radius:0 0 24px 24px;
+  margin-top:-2px;
 }
