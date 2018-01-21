@@ -32,8 +32,9 @@ a:hover {
 .month-table {
   padding: 15px;
   position: relative;
-  background: #EC2216;
   border: 0;
+  border:1px solid #fff5;
+  border-radius:24px;
 }
 
 .month-table td {
