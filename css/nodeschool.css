@@ -41,6 +41,7 @@ a:hover {
 
 .month-table td {
   border-color: #fff5;
+  padding:0;
 }
 
 .event a {
