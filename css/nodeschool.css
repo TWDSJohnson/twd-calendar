@@ -53,7 +53,10 @@ a:hover {
 }
 
 .month-menuitem:hover {
-
+  transform: scale(1.1618);
+  background:#fff;
+  color:#5482ab;
+  font-weight:bold;
 }
 
 .today .day:before {
