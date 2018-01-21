@@ -36,27 +36,6 @@ a:hover {
   border: 0;
 }
 
-.month-table:before, .month-table:after {
-  content: "";
-  border: 24px solid transparent;
-  position: absolute;
-  display: block;
-}
-
-.month-table:before {
-  border-top-color: #EC2216;
-  border-right-color: #EC2216;
-  top: 0;
-  right: 0;
-}
-
-.month-table:after {
-  border-left-color: #EC2216;
-  border-bottom-color: #EC2216;
-  bottom: 0;
-  left: 0;
-}
-
 .month-table td {
   background: #6F140A;
   border-color: #EC2216;
@@ -65,35 +44,6 @@ a:hover {
 .event a {
   color: #fff;
   border: 0;
-}
-
-.month-menuitem {
-  background: #6F140A;
-  border: 0;
-  padding: 10px 20px;
-  color: #fff;
-  position: relative;
-}
-
-.month-menuitem:before, .month-menuitem:after {
-  content: "";
-  border: 6px solid transparent;
-  position: absolute;
-  display: block;
-}
-
-.month-menuitem:before {
-  border-top-color: #46004D;
-  border-right-color: #46004D;
-  top: 0;
-  right: 0;
-}
-
-.month-menuitem:after {
-  border-bottom-color: #46004D;
-  border-left-color: #46004D;
-  bottom: 0;
-  left: 0;
 }
 
 .month-menuitem.active {
