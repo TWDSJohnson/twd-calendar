@@ -123,5 +123,5 @@ td {
 
 .multi-days a { border: 0; }
 .multi-days a:hover {  }
-.no-event { color: #fff4; }
+.no-event { color: rgba(255, 255, 255, .4); }
 .event a:hover {color: #36ffa3;}
